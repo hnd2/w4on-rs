@@ -1,5 +1,5 @@
 [package]
-name = "w4on-rs"
+name = "w4on"
 version = "0.1.0"
 edition = "2021"
 
